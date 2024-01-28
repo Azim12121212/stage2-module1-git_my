@@ -1,6 +1,11 @@
 
+<<<<<<< HEAD
 update from git_1
 update from git_1
+=======
+update from git_2
+update from git_2
+>>>>>>> git_2
 
 
 
