@@ -1,0 +1,25 @@
+From 9ef52580d14dd0336ad5f6ff1801deb629d38c5a Mon Sep 17 00:00:00 2001
+From: Azimbek <omar.azimbek@gmail.com>
+Date: Sun, 28 Jan 2024 21:15:53 +0600
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index e3c0074..b6a8a48 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,6 +1,6 @@
+ 
+-
+-
++changes git_1
++changes git_1
+ 
+ 
+ 
+-- 
+2.43.0.windows.1
+
